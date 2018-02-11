@@ -1,0 +1,39 @@
+# hackernews-vue-apollo
+
+> HowToGraphQL FrontEnd Tutorial
+
+## 
+
+Trying out [HowToGraphQL Vue/Apollo-tutorial](https://www.howtographql.com/vue-apollo/)
+The tutorial uses old graphcool CLI version, and also old vue-apollo version
+* graphcool@0.4
+* apollo-client@1.9.3
+
+Might later try with uptodate versions. Also, the tutorial would ideally be updated.
+
+## Build Setup
+
+``` bash
+# install dependencies
+npm install
+
+# serve with hot reload at localhost:8080
+npm run dev
+
+# build for production with minification
+npm run build
+
+# build for production and view the bundle analyzer report
+npm run build --report
+
+# run unit tests
+npm run unit
+
+# run e2e tests
+npm run e2e
+
+# run all tests
+npm test
+```
+
+For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
